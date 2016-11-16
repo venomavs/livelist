@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="| USA Channels |" tvg-logo="" group-title="USA Channels",| USA Channels |
-http://venomplaylist.ga:8392/live/seancook/cooki3/1736.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="Action Max" tvg-logo="http://lonewolftvpr.com/logos/actionmax.png" group-title="USA Channels",Action Max
 http://venomplaylist.ga:8392/live/seancook/cooki3/1730.m3u8
 
