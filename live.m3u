@@ -1,10 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="| NBA League Pass |" tvg-logo="" group-title="",| NBA League Pass |
-http://venomplaylist.ga:8392/live/seancook/cooki3/1867.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 1" tvg-logo="" group-title="Sport Channels",NBA: League Pass 1
-http://venomplaylist.ga:8392/live/seancook/cooki3/1860.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="| USA Channels |" tvg-logo="" group-title="USA Channels",| USA Channels |
+http://venomplaylist.ga:8392/live/seancook/cooki3/1736.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 2" tvg-logo="" group-title="Sport Channels",NBA: League Pass 2
-http://venomplaylist.ga:8392/live/seancook/cooki3/1861.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Action Max" tvg-logo="http://lonewolftvpr.com/logos/actionmax.png" group-title="USA Channels",Action Max
+http://venomplaylist.ga:8392/live/seancook/cooki3/1730.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="http://lonewolftvpr.com/logos/AMC.png" group-title="USA Channels",AMC
+http://venomplaylist.ga:8392/live/seancook/cooki3/1693.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ABC" tvg-logo="http://lonewolftvpr.com/logos/ABC.png" group-title="USA Channels",ABC
+http://venomplaylist.ga:8392/live/seancook/cooki3/1674.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="http://lonewolftvpr.com/logos/ane.png" group-title="USA Channels",A&E
+http://venomplaylist.ga:8392/live/seancook/cooki3/1696.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ABC News" tvg-logo="http://lonewolftvpr.com/logos/abcnews.png" group-title="USA Channels",ABC News
+http://venomplaylist.ga:8392/live/seancook/cooki3/1695.m3u8
