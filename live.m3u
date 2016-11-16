@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="PPV: Star Wars The Force Awakens" tvg-logo="http://lonewolf.online:8392/images/2488496.jpg" group-title="",PPV: Star Wars The Force Awakens
-http://venomplaylist.ga:8392/movie/seancook/cooki3/1871.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="PPV: The Jungle Book" tvg-logo="http://lonewolf.online:8392/images/3040964.jpg" group-title="",PPV: The Jungle Book
-http://venomplaylist.ga:8392/movie/seancook/cooki3/1849.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="| NBA League Pass |" tvg-logo="" group-title="",| NBA League Pass |http://venomplaylist.ga:8392/live/seancook/cooki3/1867.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 1" tvg-logo="" group-title="Sport Channels",NBA: League Pass 1http://venomplaylist.ga:8392/live/seancook/cooki3/1860.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 2" tvg-logo="" group-title="Sport Channels",NBA: League Pass 2http://venomplaylist.ga:8392/live/seancook/cooki3/1861.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 3" tvg-logo="" group-title="Sport Channels",NBA: League Pass 3http://venomplaylist.ga:8392/live/seancook/cooki3/1862.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 4" tvg-logo="" group-title="Sport Channels",NBA: League Pass 4http://venomplaylist.ga:8392/live/seancook/cooki3/1863.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 5" tvg-logo="" group-title="Sport Channels",NBA: League Pass 5http://venomplaylist.ga:8392/live/seancook/cooki3/1864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 6" tvg-logo="" group-title="Sport Channels",NBA: League Pass 6http://venomplaylist.ga:8392/live/seancook/cooki3/1865.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="NBA: League Pass 7" tvg-logo="" group-title="Sport Channels",NBA: League Pass 7http://venomplaylist.ga:8392/live/seancook/cooki3/1866.m3u8
