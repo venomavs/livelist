@@ -1,6 +1,12 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="" tvg-name="BoxNation" tvg-logo="" group-title="UK Channels",BoxNation
+http://venomplaylist.ga:8392/live/seancook/cooki3/1765.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2" tvg-logo="" group-title="UK Channels",BT Sport 2
+http://venomplaylist.ga:8392/live/seancook/cooki3/1764.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="| NBA League Pass |" tvg-logo="" group-title="",| NBA League Pass |
 http://venomplaylist.ga:8392/live/seancook/cooki3/1867.m3u8
 
